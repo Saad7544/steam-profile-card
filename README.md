@@ -8,32 +8,23 @@
 </p>
 
 <p align="center">
-<a href="https://card.yuy1n.io" style="font-size:20px">Online Config Page</a>
+<a href="https://steam-profile-card.vercel.app/" style="font-size:20px">Online Config Page</a>
 </p>
 <p align="center">
-  <a href="https://card.yuy1n.io">
-		<img src="https://card.yuy1n.io/card/76561198028121353/en"/>
+  <a href="https://steam-profile-card.vercel.app/">
+		<img src="https://steam-profile-card.vercel.app/card/76561199217630051/dark,en,bg-game,badges,games,screenshots"/>
   </a>
 </p>
 
 <p align="center">
-<a href="https://card.yuy1n.io">
+<a href="https://steam-profile-card.vercel.app/">
 <img src="https://therealsujitk-vercel-badge.vercel.app/?app=steam-card"></img>
-</a>
-<a href="https://card.yuy1n.io/">
-<img src="https://api.netlify.com/api/v1/badges/26879726-2f6e-49e2-8abe-550512e9095c/deploy-status"></img>
-</a>
-</p>
-
-<p align="center">
-<a href="https://hub.docker.com/r/lyc575757/steam-card">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></img>
 </a>
 <p>
 
 ## 🔥 Features
 - **Dynamic**: The card content will be dynamically generated according to your Steam status.
-- **User Friendly**: Generate your Steam card on [Online Config Page](https://card.yuy1n.io)
+- **User Friendly**: Generate your Steam card on [Online Config Page](https://steam-profile-card.vercel.app/)
 - **i18n**: Support multiple languages (PR Welcome for more language)
 - **Customizable**: Support more than 10 Custom items.
 - **Deployable**: Support deploy it with `Vercel`, `Netlify`, `Railway` or `Docker`.
